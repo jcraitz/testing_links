@@ -16,7 +16,7 @@ src="https://github.com/jcraitz/testing_links/blob/main/Images/scarlet_ibis.jpg"
 
 [Here](../README.md) is a relative link to the readme file.
 
-[Here](../) is an absolute link to the root directory.
+Unfortunately, relative links to the root directory don't work on GitHub. ☹️
 
 The following is a relative source link to an image from this project.
 
